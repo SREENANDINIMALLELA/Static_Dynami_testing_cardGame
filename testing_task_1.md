@@ -5,10 +5,10 @@
 ```ruby
 
 class CardGame
-#cardgame class is not initialized
+
   def checkforAce(card)
     if card.value = 1
-       # we are checking value = 1 or not  so we need to use == double equals 
+       # we are checking value = 1 or not  so we need to use == double equals
       return true
     else
       return false
